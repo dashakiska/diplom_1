@@ -1,6 +1,10 @@
 from typing import List
 
+<<<<<<< HEAD
+from .bun import Bun
+=======
 from praktikum.bun import Bun
+>>>>>>> c7c7e92ac4cbbe887236dbb76c4c87e7792edab5
 from praktikum.burger import Burger
 from praktikum.database import Database
 from praktikum.ingredient import Ingredient
