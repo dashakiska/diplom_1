@@ -4,11 +4,6 @@ from typing import List
 from bun import Bun
 from ingredient import Ingredient
 from ingredient_types import INGREDIENT_TYPE_SAUCE, INGREDIENT_TYPE_FILLING
-=======
-from praktikum.bun import Bun
-from praktikum.ingredient import Ingredient
-from praktikum.ingredient_types import INGREDIENT_TYPE_SAUCE, INGREDIENT_TYPE_FILLING
->>>>>>> c7c7e92ac4cbbe887236dbb76c4c87e7792edab5
 
 
 class Database:
